@@ -2,7 +2,7 @@
 
 ## 🔍 Project Overview
 This project presents an interactive Power BI dashboard built using e-commerce sales data. It provides insights into sales performance, profit trends, and customer behavior to support data-driven business decisions.
-=====
+-
 
 ## 🚀 Key Features
 - 📈 Sales and Profit Analysis
